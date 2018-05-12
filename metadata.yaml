@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8428
     wikipedia: http://en.wikipedia.org/wiki/Wilfred_Grenfell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21323#What-the-Church-Means-to-MeA-Frank-Confession-and-a-Friendly-Estimate-by-an-Insider
 gutenberg_issued: '2007-05-04'
 gutenberg_type: Text
 identifiers:
